@@ -1,4 +1,4 @@
-# ModernClash
+# ModernClash (WORK IN PROGRESS, NOTHING HERE)
 A .NET Core Clash of Clans Server for v13.0.31 (2020)
 
 #### Clients (v13.0.31)
