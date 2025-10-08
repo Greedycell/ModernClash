@@ -1,2 +1,0 @@
-dotnet RetroClash.dll
-pause
