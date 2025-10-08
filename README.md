@@ -1,5 +1,5 @@
 # ModernClash
-A .NET Core Clash of Clans Server for the first Android version of coc (2020)
+A .NET Core Clash of Clans Server for v13.0.31. (2020)
 
 #### Clients (v13.0.31)
 1. [aremabi-v7a](https://www.apkmirror.com/apk/supercell/clash-of-clans/clash-of-clans-13-0-31-release/clash-of-clans-13-0-31-2-android-apk-download)
