@@ -7,7 +7,7 @@ A .NET Core Clash of Clans Server for v9.434.30 (2018)
 [v9.434.30](https://www.apkmirror.com/apk/supercell/clash-of-clans/clash-of-clans-9-434-30-release/clash-of-clans-9-434-30-android-apk-download/)
 
 #### Important Reminder:
-Please do not make any profit off of this private server.
+Please do not make any profit off of this private server source code.
 
 ### License
 GPL-3.0
