@@ -1,6 +1,6 @@
 # ModernClash (WORK IN PROGRESS, NOTHING HERE)
 A .NET Core Clash of Clans Server for v13.0.31 (2020)
-[![clash royale](https://img.shields.io/badge/Clash%20of%20Clans-13.0.31-brightred.svg?style=flat")](https://clash-royale.en.uptodown.com/android/download/1632865)
+[![clash royale](https://img.shields.io/badge/Clash%20of%20Clans-13.0.31-brightred.svg?style=flat")](https://www.apkmirror.com/apk/supercell/clash-of-clans/clash-of-clans-13-0-31-release/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 #### Clients (v13.0.31)
