@@ -4,7 +4,7 @@ A .NET Core Clash of Clans Server (v9.434.30)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 #### Client
-[v9.434.30](https://www.apkmirror.com/apk/supercell/clash-of-clans/clash-of-clans-9-434-30-release/clash-of-clans-9-434-30-android-apk-download/)
+[v9.434.30](https://mega.nz/file/NjdESBoT#JPzyw-CT-7Rzv-gICKQha_o-2281fc49-Il8SVhRU8Y)
 
 #### Important Reminder:
 Please do not make any profit off of this private server source code.
