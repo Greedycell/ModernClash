@@ -5,6 +5,7 @@ A .NET Core Clash of Clans Server (v9.434.30)
 
 #### Client
 [v9.434.30](https://mega.nz/file/NjdESBoT#JPzyw-CT-7Rzv-gICKQha_o-2281fc49-Il8SVhRU8Y)
+-
 `To connect to your server, just edit the IP in the Frida Gadget config script (/lib/armeabi-v7a/libgg.config.so & /lib/x86/libgg.config.so) in your Notepad or any other editing software:
 {
    "interaction":{
